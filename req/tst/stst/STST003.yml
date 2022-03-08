@@ -1,0 +1,13 @@
+active: true
+derived: false
+header: ''
+level: 1.2
+links:
+- REQ001: 5_0SfywGpnUkIiJ-16Mb58Wnniom-yw0k_28GrZ4uIw=
+- TST001: iuLuFoB3lVfhj0_AouROP8GxqKis3o6rKqin18l7X7U=
+- TST003: zssuTWIwBd0i1kFo3Mq2yvHHwO2_cfs3rbtHnjUTwP8=
+normative: true
+ref: ''
+reviewed: RRoKd8gcViTAah4ShYL4pxYTJrI1f89Iia_ZEsYQwvk=
+text: |
+  This is the text for STST003

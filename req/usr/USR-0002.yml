@@ -1,0 +1,16 @@
+active: true
+attributes:
+  Comment: null
+  Module: 1
+  User Type: All
+  Verification Method: R, I
+derived: false
+header: ''
+level: 1.1
+links:
+- REQ003: DA85Fy3AYJ9d_aLB6ois4gL1wmilP32h3UlpyxC13no=
+normative: true
+ref: ''
+reviewed: W45Bm_sjN7USqLatxFHXDPLUN6LPqNy4k8os9TcynW4=
+text: |
+  The rms SHALL import
