@@ -4,7 +4,12 @@ header: ''
 level: 1.0
 links: []
 normative: true
+otherLinks:
+  SRS001: 6dBx82poAE8sx8OebTtT--u68uY8dUL89RPa3EJyxA4=
 ref: ''
-reviewed: 5_0SfywGpnUkIiJ-16Mb58Wnniom-yw0k_28GrZ4uIw=
+reviewed: 9ljBWQ11KTVmiY8FcbEvUwybn69oGZp5UfVkIbWdMHg=
+status: NeedsReviewing
+tags: []
 text: |
-  This is text for the REQ001
+  The [---] SHALL ....
+type: Requirement

@@ -4,7 +4,13 @@ header: ''
 level: 1.1
 links: []
 normative: true
+otherLinks:
+  SRS002: rZRp4aOEBMuaXitqo5udmoDZ7qpyOrw8-4STSiOI3wc=
+  SRS003: XHyX74-MdnjjuzaPtDh3YiXZeFiBMN_pqCOkhemlGCI=
 ref: ''
-reviewed: oktxCRDfUASQs-CBMhrwkmrWGWweHOLTqnEUJK7prYk=
+reviewed: XYcLRCBhmDPG7LRMQjU5dzAhHRAM_un8_gN9es8_yN8=
+status: Reviewed
+tags: []
 text: |
-  I just changed the text of REQ002 via set
+  The [---] SHALL ....
+type: Requirement

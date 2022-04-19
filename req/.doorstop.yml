@@ -1,0 +1,9 @@
+settings:
+  digits: 3
+  prefix: REQ
+  sep: ''
+attributes:
+  publish:
+  - tags
+  - type
+  - status

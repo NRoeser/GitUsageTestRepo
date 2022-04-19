@@ -1,0 +1,16 @@
+active: true
+derived: false
+header: ''
+level: 1.1
+links:
+- REQ002: XYcLRCBhmDPG7LRMQjU5dzAhHRAM_un8_gN9es8_yN8=
+normative: true
+otherLinks:
+  TC002: d7MiJ5LOG1RaYpecVk21qPmqSCMUIDFrKbOBNoF-mx0=
+ref: ''
+reviewed: rZRp4aOEBMuaXitqo5udmoDZ7qpyOrw8-4STSiOI3wc=
+status: Reviewed
+tags: []
+text: |
+  The [---] SHALL ....
+type: Requirement

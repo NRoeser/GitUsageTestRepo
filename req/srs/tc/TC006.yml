@@ -1,14 +1,14 @@
 active: true
 derived: false
 header: ''
-level: 1.3
+level: 1.5
 links: []
 normative: true
 otherLinks: {}
 ref: ''
-reviewed: kL8EgEbuw7YbfCKCKUQGov03Y4ubRD0p4DySNDGLygY=
+reviewed: T4zZxDj_Sb4o57fc1VOap66tBM9HWPrH00uh1ynXtYk=
 status: Reviewed
 tags: []
 text: |
-  The [---] SHALL ....
-type: Requirement
+  This is some default text
+type: BasicItem

@@ -1,0 +1,120 @@
+12/04/22 - 15:19: Started project with first item
+12/04/22 - 15:19: Created document of type: REQ
+12/04/22 - 15:19: Created BasicItem with UID: REQ001
+12/04/22 - 15:20: Created BasicItem with UID: REQ002
+12/04/22 - 15:20: Created BasicItem with UID: REQ003
+12/04/22 - 15:20: Created document of type: SRS
+12/04/22 - 15:20: Created BasicItem with UID: SRS001
+12/04/22 - 15:20: Linked items: SRS001 and REQ001
+12/04/22 - 15:27: Created BasicItem with UID: SRS002
+12/04/22 - 15:27: Linked items: SRS002 and REQ002
+12/04/22 - 15:28: Created BasicItem with UID: SRS003
+12/04/22 - 15:28: Linked items: SRS003 and REQ002
+12/04/22 - 15:29: Created BasicItem with UID: SRS004
+12/04/22 - 15:29: Linked items: SRS004 and REQ003
+12/04/22 - 15:37: Created document of type: TC
+12/04/22 - 15:37: Created BasicItem with UID: TC001
+12/04/22 - 15:37: Linked items: TC001 and SRS001
+12/04/22 - 15:37: Created BasicItem with UID: TC002
+12/04/22 - 15:37: Linked items: TC002 and SRS002
+12/04/22 - 15:37: Created BasicItem with UID: TC003
+12/04/22 - 15:37: Linked items: TC003 and SRS003
+12/04/22 - 15:38: Created BasicItem with UID: TC004
+12/04/22 - 15:38: Linked items: TC004 and SRS004
+12/04/22 - 15:38: Created document of type: TP
+12/04/22 - 15:38: Created BasicItem with UID: TP001
+12/04/22 - 15:38: Linked items: TP001 and TC001
+12/04/22 - 15:38: Created BasicItem with UID: TP002
+12/04/22 - 15:38: Linked items: TP002 and TC001
+12/04/22 - 15:38: Created BasicItem with UID: TP003
+12/04/22 - 15:38: Linked items: TP003 and TC002
+12/04/22 - 15:38: Created BasicItem with UID: TP004
+12/04/22 - 15:38: Linked items: TP004 and TC001
+12/04/22 - 15:39: Created BasicItem with UID: TP005
+12/04/22 - 15:39: Linked items: TP005 and TC003
+12/04/22 - 15:39: Created BasicItem with UID: TP006
+12/04/22 - 15:39: Linked items: TP006 and TC004
+12/04/22 - 15:56: Created BasicItem with UID: TP007
+12/04/22 - 15:56: Linked items: TP007 and TC001
+12/04/22 - 15:56: Created BasicItem with UID: TP008
+12/04/22 - 15:56: Linked items: TP008 and TC001
+12/04/22 - 15:58: Created document of type: TP
+12/04/22 - 15:58: Created BasicItem with UID: TP001
+12/04/22 - 16:00: Created BasicItem with UID: TP002
+12/04/22 - 16:00: Linked items: TP002 and TC001
+12/04/22 - 16:01: Created document of type: TP
+12/04/22 - 16:01: Created BasicItem with UID: TP001
+12/04/22 - 16:03: Created document of type: TP
+12/04/22 - 16:03: Created BasicItem with UID: TP001
+12/04/22 - 16:03: Linked items: TP001 and TC001
+12/04/22 - 16:04: Created BasicItem with UID: TP002
+12/04/22 - 16:04: Linked items: TP002 and TC002
+12/04/22 - 16:04: Created BasicItem with UID: TP003
+12/04/22 - 16:04: Linked items: TP003 and TC003
+12/04/22 - 16:04: Created BasicItem with UID: TP004
+12/04/22 - 16:04: Linked items: TP004 and TC004
+12/04/22 - 16:04: Created BasicItem with UID: TP005
+12/04/22 - 16:04: Linked items: TP005 and TC001
+12/04/22 - 16:09: Deleted item with UID: TP001
+12/04/22 - 16:09: Deleted item with UID: TP002
+12/04/22 - 16:09: Deleted item with UID: TP003
+12/04/22 - 16:09: Deleted item with UID: TP004
+12/04/22 - 16:09: Deleted item with UID: TP005
+12/04/22 - 16:10: Created document of type: TP
+12/04/22 - 16:10: Created BasicItem with UID: TP001
+12/04/22 - 16:10: Linked items: TP001 and TC001
+12/04/22 - 16:14: Deleted item with UID: TP001
+12/04/22 - 16:17: Created document of type: TP
+12/04/22 - 16:17: Created BasicItem with UID: TP001
+12/04/22 - 16:17: Linked items: TP001 and TC001
+12/04/22 - 16:17: Created BasicItem with UID: TP002
+12/04/22 - 16:17: Linked items: TP002 and TC002
+12/04/22 - 16:17: Created BasicItem with UID: TP003
+12/04/22 - 16:17: Linked items: TP003 and TC003
+12/04/22 - 16:17: Created BasicItem with UID: TP004
+12/04/22 - 16:17: Linked items: TP004 and TC004
+12/04/22 - 16:24: Deleted item with UID: TP001
+12/04/22 - 16:25: Created BasicItem with UID: TP005
+12/04/22 - 16:25: Linked items: TP005 and TC001
+12/04/22 - 16:58: Deleted item with UID: TC001
+12/04/22 - 16:59: Created BasicItem with UID: TC005
+12/04/22 - 16:59: Linked items: TC005 and SRS001
+12/04/22 - 17:00: Created BasicItem with UID: TP006
+12/04/22 - 17:00: Linked items: TP006 and TC005
+12/04/22 - 17:04: Deleted item with UID: TP006
+12/04/22 - 17:04: Deleted item with UID: TP005
+12/04/22 - 17:04: Created BasicItem with UID: TC005
+12/04/22 - 17:04: Linked items: TC005 and SRS004
+12/04/22 - 17:05: Created BasicItem with UID: TP005
+12/04/22 - 17:05: Linked items: TP005 and TC005
+13/04/22 - 09:57: Created BasicItem with UID: TP006
+13/04/22 - 09:57: Linked items: TP006 and TC005
+13/04/22 - 10:00: Created BasicItem with UID: TP007
+13/04/22 - 10:00: Linked items: TP007 and TC005
+13/04/22 - 11:47: Started project with first item
+13/04/22 - 11:47: Created document of type: REQ
+13/04/22 - 11:47: Created BasicItem with UID: REQ001
+13/04/22 - 11:50: Started project with first item
+13/04/22 - 11:50: Created document of type: REQ
+13/04/22 - 11:50: Created BasicItem with UID: REQ001
+13/04/22 - 11:50: Created BasicItem with UID: REQ002
+13/04/22 - 11:51: Created BasicItem with UID: REQ003
+13/04/22 - 11:52: Created BasicItem with UID: REQ004
+13/04/22 - 12:14: Added new tag 'NRO' to item: TC002
+13/04/22 - 12:15: Added new tag 'NRO' to item: TP002
+14/04/22 - 12:25: Added new tag 'RSA' to item: TP002
+14/04/22 - 12:25: Added new tag 'RSA' to item: TP003
+14/04/22 - 12:25: Added new tag 'RSA' to item: TP004
+14/04/22 - 12:25: Added new tag 'RSA' to item: TP005
+14/04/22 - 12:25: Added new tag 'RSA' to item: TP006
+14/04/22 - 12:25: Added new tag 'RSA' to item: TP007
+14/04/22 - 12:40: Reviewed item: TC002
+14/04/22 - 12:40: Reviewed item: TC003
+14/04/22 - 12:40: Reviewed item: TC004
+14/04/22 - 12:40: Reviewed item: TC005
+19/04/22 - 12:12: Created BasicItem with UID: TC007
+19/04/22 - 12:12: Created item of type 'TestCase' with UID: TC007
+19/04/22 - 12:18: Created BasicItem with UID: TC007
+19/04/22 - 12:18: Created item of type 'TestCase' with UID: TC007
+19/04/22 - 12:18: Linked items: TC007 and SRS001
+19/04/22 - 12:18: Reviewed item: TC007

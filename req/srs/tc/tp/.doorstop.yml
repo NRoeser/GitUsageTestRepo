@@ -1,0 +1,10 @@
+settings:
+  digits: 3
+  parent: TC
+  prefix: TP
+  sep: ''
+attributes:
+  publish:
+  - tags
+  - type
+  - status

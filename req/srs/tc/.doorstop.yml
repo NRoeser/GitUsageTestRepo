@@ -1,0 +1,10 @@
+settings:
+  digits: 3
+  parent: SRS
+  prefix: TC
+  sep: ''
+attributes:
+  publish:
+  - tags
+  - type
+  - status

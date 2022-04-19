@@ -1,0 +1,17 @@
+active: true
+derived: false
+header: ''
+level: 1.3
+links:
+- REQ003: XxOfT1UJKZP4ja75f0lPb_GDKi3Oe9Zqq9KD-mo18TQ=
+normative: true
+otherLinks:
+  TC004: tR6OiMsYn8MGYHiP-kwVMnTmeqor_8QqMuxmkXoAaR8=
+  TC005: tjg69Bo2bFkZNSgoMdWwIsJp4awkBALyj2ck6ycmggI=
+ref: ''
+reviewed: pJqGWJ4OfqdZWHySCrsofjJfhjy0V_YTTAVqWTyHVBA=
+status: Reviewed
+tags: []
+text: |
+  The [---] SHALL ....
+type: Requirement
